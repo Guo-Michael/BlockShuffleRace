@@ -1,0 +1,14 @@
+name: BlockShuffleAlt
+version: 1.0
+api-version: 1.16
+author: MangoMajestic
+main: me.mango.BlockShuffleAlt.Main
+description: Block Shuffle Race to first X blocks with X being the start command's first argument
+
+commands:
+  blockshufflestart: 
+    description: starts Block Shuffle Race
+  blockshufflestop:
+    description: ends Block Shuffle Race
+  blockshufflelist:
+    description: reveals the list of blocks the players need to find
