@@ -1,4 +1,7 @@
 # BlockShuffleRace
+
+(From @MangoMajestic)
+
 Minecraft Plugin - Block Shuffle Race!!! (Multiple Players)
 
 Block Shuffle Race is finally up! I couldn't find this version of block shuffle (Dream's version is timer-based), so I created it myself!
